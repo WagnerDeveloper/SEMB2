@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/bin/Debug/net8.0/Arrays
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video05/Arrays/obj/Debug/net8.0/ref/Arrays.dll

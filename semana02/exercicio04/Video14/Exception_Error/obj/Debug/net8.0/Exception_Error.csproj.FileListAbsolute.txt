@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/bin/Debug/net8.0/Exception_Error
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/bin/Debug/net8.0/Exception_Error.deps.json
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/bin/Debug/net8.0/Exception_Error.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/bin/Debug/net8.0/Exception_Error.dll
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/bin/Debug/net8.0/Exception_Error.pdb
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/Exception_Error.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/Exception_Error.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/Exception_Error.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/Exception_Error.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/Exception_Error.dll
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/refint/Exception_Error.dll
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/Exception_Error.pdb
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/Exception_Error.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video14/Exception_Error/obj/Debug/net8.0/ref/Exception_Error.dll

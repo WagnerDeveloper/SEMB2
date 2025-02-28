@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/bin/Debug/net8.0/Switch
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/bin/Debug/net8.0/Switch.deps.json
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/bin/Debug/net8.0/Switch.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/bin/Debug/net8.0/Switch.dll
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/bin/Debug/net8.0/Switch.pdb
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/Switch.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/Switch.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/Switch.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/Switch.dll
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/refint/Switch.dll
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/Switch.pdb
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/Switch.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video09/Switch/obj/Debug/net8.0/ref/Switch.dll

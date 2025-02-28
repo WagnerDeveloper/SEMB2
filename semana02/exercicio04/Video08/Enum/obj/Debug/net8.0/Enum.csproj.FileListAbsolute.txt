@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/bin/Debug/net8.0/Enum
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/bin/Debug/net8.0/Enum.deps.json
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/bin/Debug/net8.0/Enum.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/bin/Debug/net8.0/Enum.dll
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/bin/Debug/net8.0/Enum.pdb
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/Enum.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/Enum.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/Enum.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/Enum.dll
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/refint/Enum.dll
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/Enum.pdb
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/Enum.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video08/Enum/obj/Debug/net8.0/ref/Enum.dll

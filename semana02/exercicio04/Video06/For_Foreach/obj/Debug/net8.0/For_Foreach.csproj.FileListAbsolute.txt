@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/bin/Debug/net8.0/For_Foreach
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/bin/Debug/net8.0/For_Foreach.deps.json
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/bin/Debug/net8.0/For_Foreach.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/bin/Debug/net8.0/For_Foreach.dll
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/bin/Debug/net8.0/For_Foreach.pdb
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/For_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/For_Foreach.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/For_Foreach.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/For_Foreach.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/For_Foreach.dll
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/refint/For_Foreach.dll
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/For_Foreach.pdb
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/For_Foreach.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video06/For_Foreach/obj/Debug/net8.0/ref/For_Foreach.dll

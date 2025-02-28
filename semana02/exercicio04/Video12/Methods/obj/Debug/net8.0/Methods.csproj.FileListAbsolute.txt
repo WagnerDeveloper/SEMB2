@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/bin/Debug/net8.0/Methods
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/bin/Debug/net8.0/Methods.deps.json
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/bin/Debug/net8.0/Methods.dll
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/bin/Debug/net8.0/Methods.pdb
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/Methods.dll
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/refint/Methods.dll
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/Methods.pdb
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video12/Methods/obj/Debug/net8.0/ref/Methods.dll

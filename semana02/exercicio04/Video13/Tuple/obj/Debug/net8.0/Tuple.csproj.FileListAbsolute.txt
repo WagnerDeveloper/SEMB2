@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/bin/Debug/net8.0/Tuple
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/bin/Debug/net8.0/Tuple.deps.json
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/bin/Debug/net8.0/Tuple.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/bin/Debug/net8.0/Tuple.dll
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/bin/Debug/net8.0/Tuple.pdb
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/Tuple.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/Tuple.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/Tuple.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/Tuple.dll
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/refint/Tuple.dll
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/Tuple.pdb
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/Tuple.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video13/Tuple/obj/Debug/net8.0/ref/Tuple.dll

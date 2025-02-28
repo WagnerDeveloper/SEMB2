@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/Delegates_Func_Action.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/Delegates_Func_Action.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/Delegates_Func_Action.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/Delegates_Func_Action.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/bin/Debug/net8.0/Delegates_Func_Action
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/bin/Debug/net8.0/Delegates_Func_Action.deps.json
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/bin/Debug/net8.0/Delegates_Func_Action.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/bin/Debug/net8.0/Delegates_Func_Action.dll
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/bin/Debug/net8.0/Delegates_Func_Action.pdb
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/Delegates_Func_Action.dll
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/refint/Delegates_Func_Action.dll
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/Delegates_Func_Action.pdb
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/Delegates_Func_Action.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video19/Delegates_Func_Action/obj/Debug/net8.0/ref/Delegates_Func_Action.dll

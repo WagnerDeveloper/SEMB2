@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/Records.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/Records.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/Records.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/Records.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video18/Records/bin/Debug/net8.0/Records
+/home/marco/code/Semana02/Exercicio04/Video18/Records/bin/Debug/net8.0/Records.deps.json
+/home/marco/code/Semana02/Exercicio04/Video18/Records/bin/Debug/net8.0/Records.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video18/Records/bin/Debug/net8.0/Records.dll
+/home/marco/code/Semana02/Exercicio04/Video18/Records/bin/Debug/net8.0/Records.pdb
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/Records.dll
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/refint/Records.dll
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/Records.pdb
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/Records.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video18/Records/obj/Debug/net8.0/ref/Records.dll

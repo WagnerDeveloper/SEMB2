@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/While.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/While.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/While.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video10/While/bin/Debug/net8.0/While
+/home/marco/code/Semana02/Exercicio04/Video10/While/bin/Debug/net8.0/While.deps.json
+/home/marco/code/Semana02/Exercicio04/Video10/While/bin/Debug/net8.0/While.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video10/While/bin/Debug/net8.0/While.dll
+/home/marco/code/Semana02/Exercicio04/Video10/While/bin/Debug/net8.0/While.pdb
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/While.dll
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/refint/While.dll
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/While.pdb
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/While.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video10/While/obj/Debug/net8.0/ref/While.dll

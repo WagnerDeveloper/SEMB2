@@ -1,0 +1,14 @@
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/bin/Debug/net8.0/Strings
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/bin/Debug/net8.0/Strings.deps.json
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/bin/Debug/net8.0/Strings.runtimeconfig.json
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/bin/Debug/net8.0/Strings.dll
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/bin/Debug/net8.0/Strings.pdb
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/Strings.dll
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/refint/Strings.dll
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/Strings.pdb
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/home/marco/code/Semana02/Exercicio04/Video04/Strings/obj/Debug/net8.0/ref/Strings.dll
