@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/semb2.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/semb2.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/semb2.AssemblyInfo.cs
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/semb2.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/semb2.sourcelink.json
+/home/wagner/semb2/semana03/exercicio03/bin/Debug/net9.0/semb2
+/home/wagner/semb2/semana03/exercicio03/bin/Debug/net9.0/semb2.deps.json
+/home/wagner/semb2/semana03/exercicio03/bin/Debug/net9.0/semb2.runtimeconfig.json
+/home/wagner/semb2/semana03/exercicio03/bin/Debug/net9.0/semb2.dll
+/home/wagner/semb2/semana03/exercicio03/bin/Debug/net9.0/semb2.pdb
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/semb2.dll
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/refint/semb2.dll
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/semb2.pdb
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/semb2.genruntimeconfig.cache
+/home/wagner/semb2/semana03/exercicio03/obj/Debug/net9.0/ref/semb2.dll

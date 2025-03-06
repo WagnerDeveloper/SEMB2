@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana03/exercicio03/video07/bin/Debug/net9.0/video07
+/home/wagner/semb2/semana03/exercicio03/video07/bin/Debug/net9.0/video07.deps.json
+/home/wagner/semb2/semana03/exercicio03/video07/bin/Debug/net9.0/video07.runtimeconfig.json
+/home/wagner/semb2/semana03/exercicio03/video07/bin/Debug/net9.0/video07.dll
+/home/wagner/semb2/semana03/exercicio03/video07/bin/Debug/net9.0/video07.pdb
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/video07.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/video07.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/video07.AssemblyInfo.cs
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/video07.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/video07.sourcelink.json
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/video07.dll
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/refint/video07.dll
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/video07.pdb
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/video07.genruntimeconfig.cache
+/home/wagner/semb2/semana03/exercicio03/video07/obj/Debug/net9.0/ref/video07.dll
