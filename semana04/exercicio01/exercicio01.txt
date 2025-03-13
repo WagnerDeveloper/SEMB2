@@ -1,0 +1,28 @@
+Programação Procedural: Baseia-se na execução sequencial de comandos, organizando o código em funções. Os dados e a lógica do programa são separados, o que pode levar a dificuldades de manutenção à medida que o software cresce.
+
+Programação Orientada a Objetos (POO): Organiza o código em objetos que representam entidades do mundo real, agrupando dados e comportamentos. Isso promove reutilização, modularidade e manutenção mais eficiente.
+
+A POO ajuda na construção de melhores soluções e software porque permite maior organização, reutilização de código e facilita a manutenção e escalabilidade do sistema.
+
+Classe:Uma classe é um molde para criar objetos. Ela define atributos (dados) e métodos (comportamentos).
+
+Objeto: Um objeto é uma instância de uma classe. Cada objeto tem seus próprios valores para os atributos definidos na classe.
+
+Encapsulamento: O encapsulamento restringe o acesso direto a certos detalhes de um objeto, protegendo os dados e permitindo que sejam manipulados apenas por métodos específicos.
+
+Abstração: EA abstração oculta detalhes da implementação e expõe apenas o essencial. Isso ajuda a simplificar o código.
+
+Herança: A herança permite que uma classe herde atributos e métodos de outra classe, promovendo reutilização de código.
+
+Polimorfismo: O polimorfismo permite que métodos com o mesmo nome se comportem de maneiras diferentes, dependendo da classe que os implementa
+Polimorfismo de sobrescrita (Override): Uma classe filha modifica um método da classe pai.
+Polimorfismo de sobrecarga (Overload): Métodos com o mesmo nome, mas diferentes parâmetros.
+
+Classe e Objeto – Estrutura básica de POO.
+Encapsulamento – Proteção de dados.
+Abstração – Oculta detalhes desnecessários.
+Herança – Reutilização de código.
+Polimorfismo – Métodos que assumem diferentes formas.
+
+Wagner Neves - 11911EAU019
+

@@ -12,3 +12,11 @@
 /home/marco/code/Semana02/Exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.pdb
 /home/marco/code/Semana02/Exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.genruntimeconfig.cache
 /home/marco/code/Semana02/Exercicio04/Video07/IfElse/obj/Debug/net8.0/ref/IfElse.dll
+/home/wagner/semb2/semana02/exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana02/exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.AssemblyInfo.cs
+/home/wagner/semb2/semana02/exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.sourcelink.json
+/home/wagner/semb2/semana02/exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.dll
+/home/wagner/semb2/semana02/exercicio04/Video07/IfElse/obj/Debug/net8.0/refint/IfElse.dll
+/home/wagner/semb2/semana02/exercicio04/Video07/IfElse/obj/Debug/net8.0/IfElse.pdb

@@ -1,0 +1,18 @@
+- Conhecimento Fundamental
+-.NET + C#
+-Classes
+-POO
+
+Tipo de Dados Abstratos
+-> classe/objeto
+-> CRUD
+-> Representação e Operação
+-> "dados fazem coisas com dados"
+
+Exemplo:
+
+Pensando em uma classe 'Pokemon' >> Representar todos os pokemons
+Nós pegamos um objeto 'squirtle' >> Um pokemon abstrato
+
+Em resumo:
+A classe ajuda a limpar o Program.cs, minimizando informações.

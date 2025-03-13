@@ -1,0 +1,5 @@
+/home/wagner/semb2/semana02/exercicio04/Video21/HashSet/obj/Debug/net8.0/HashSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana02/exercicio04/Video21/HashSet/obj/Debug/net8.0/HashSet.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video21/HashSet/obj/Debug/net8.0/HashSet.AssemblyInfo.cs
+/home/wagner/semb2/semana02/exercicio04/Video21/HashSet/obj/Debug/net8.0/HashSet.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video21/HashSet/obj/Debug/net8.0/HashSet.sourcelink.json

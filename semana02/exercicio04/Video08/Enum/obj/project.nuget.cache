@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/1Xf4CM01xEj3BRqWHmWxZIjlFbxkMPamL48DQyagoyZLqPyPM3nVyDI3V2PgSYfOxqqOIGqsykS2a1q40VCnw==",
+  "dgSpecHash": "KYH3nLmy6bs=",
   "success": true,
-  "projectFilePath": "/home/marco/Área de Trabalho/SEII/SEII-MarcoTulioVilelaFonseca/Semana02/Exercicio04/Video08/Enum/Enum.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/wagner/semb2/semana02/exercicio04/Video08/Enum/Enum.csproj",
+  "expectedPackageFiles": [
+    "/home/wagner/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/wagner/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/wagner/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

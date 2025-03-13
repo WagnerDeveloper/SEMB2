@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fgFgCrDyVXO3z8xuPBwEVqCJs0ZDGhpvqWBPj2Cgurjgfct1HwfM8TENP9rroOFeQXnaT9RD2T/rzrrUd1eZWA==",
+  "dgSpecHash": "jZG37DzdmI8=",
   "success": true,
-  "projectFilePath": "/home/marco/Área de Trabalho/SEII/SEII-MarcoTulioVilelaFonseca/Semana02/Exercicio04/Video04/Strings/Strings.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/wagner/semb2/semana02/exercicio04/Video04/Strings/Strings.csproj",
+  "expectedPackageFiles": [
+    "/home/wagner/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/wagner/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/wagner/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

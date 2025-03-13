@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/bin/Debug/net8.0/Data_Types
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/bin/Debug/net8.0/Data_Types.deps.json
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/bin/Debug/net8.0/Data_Types.runtimeconfig.json
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/bin/Debug/net8.0/Data_Types.dll
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/bin/Debug/net8.0/Data_Types.pdb
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/Data_Types.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/Data_Types.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/Data_Types.AssemblyInfo.cs
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/Data_Types.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/Data_Types.sourcelink.json
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/Data_Types.dll
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/refint/Data_Types.dll
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/Data_Types.pdb
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/Data_Types.genruntimeconfig.cache
+/home/wagner/semb2/semana02/exercicio04/Video03/Data_Types/obj/Debug/net8.0/ref/Data_Types.dll

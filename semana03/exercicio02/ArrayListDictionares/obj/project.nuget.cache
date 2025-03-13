@@ -1,18 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4fP6DNAM6Wo=",
-  "success": false,
-  "projectFilePath": "C:\\Users\\wagne\\OneDrive\\Faculdade\\semb2\\ArrayListDictionares\\ArrayListDictionares.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Não foi possível resolver 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets (>= 1.21.0)' para 'net8.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
-      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "dgSpecHash": "oj8IDXbIQAs=",
+  "success": true,
+  "projectFilePath": "/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/ArrayListDictionares.csproj",
+  "expectedPackageFiles": [
+    "/home/wagner/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.21.0/microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "/home/wagner/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/wagner/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/wagner/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
 }

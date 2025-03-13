@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/bin/Debug/net8.0/ArrayListDictionares
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/bin/Debug/net8.0/ArrayListDictionares.deps.json
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/bin/Debug/net8.0/ArrayListDictionares.runtimeconfig.json
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/bin/Debug/net8.0/ArrayListDictionares.dll
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/bin/Debug/net8.0/ArrayListDictionares.pdb
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ArrayListDictionares.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ArrayListDictionares.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ArrayListDictionares.AssemblyInfo.cs
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ArrayListDictionares.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ArrayListDictionares.sourcelink.json
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ArrayListDictionares.dll
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/refint/ArrayListDictionares.dll
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ArrayListDictionares.pdb
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ArrayListDictionares.genruntimeconfig.cache
+/home/wagner/semb2/semana03/exercicio02/ArrayListDictionares/obj/Debug/net8.0/ref/ArrayListDictionares.dll

@@ -1,0 +1,5 @@
+/home/wagner/semb2/semana02/exercicio04/Video20/Dictionary/obj/Debug/net8.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana02/exercicio04/Video20/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video20/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfo.cs
+/home/wagner/semb2/semana02/exercicio04/Video20/Dictionary/obj/Debug/net8.0/Dictionary.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video20/Dictionary/obj/Debug/net8.0/Dictionary.sourcelink.json

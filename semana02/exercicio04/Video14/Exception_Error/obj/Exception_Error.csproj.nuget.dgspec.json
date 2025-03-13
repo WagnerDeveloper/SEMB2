@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/marco/Área de Trabalho/SEII/SEII-MarcoTulioVilelaFonseca/Semana02/Exercicio04/Video14/Exception_Error/Exception_Error.csproj": {}
+    "/home/wagner/semb2/semana02/exercicio04/Video14/Exception_Error/Exception_Error.csproj": {}
   },
   "projects": {
-    "/home/marco/Área de Trabalho/SEII/SEII-MarcoTulioVilelaFonseca/Semana02/Exercicio04/Video14/Exception_Error/Exception_Error.csproj": {
+    "/home/wagner/semb2/semana02/exercicio04/Video14/Exception_Error/Exception_Error.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marco/Área de Trabalho/SEII/SEII-MarcoTulioVilelaFonseca/Semana02/Exercicio04/Video14/Exception_Error/Exception_Error.csproj",
+        "projectUniqueName": "/home/wagner/semb2/semana02/exercicio04/Video14/Exception_Error/Exception_Error.csproj",
         "projectName": "Exception_Error",
-        "projectPath": "/home/marco/Área de Trabalho/SEII/SEII-MarcoTulioVilelaFonseca/Semana02/Exercicio04/Video14/Exception_Error/Exception_Error.csproj",
-        "packagesPath": "/home/marco/.nuget/packages/",
-        "outputPath": "/home/marco/Área de Trabalho/SEII/SEII-MarcoTulioVilelaFonseca/Semana02/Exercicio04/Video14/Exception_Error/obj/",
+        "projectPath": "/home/wagner/semb2/semana02/exercicio04/Video14/Exception_Error/Exception_Error.csproj",
+        "packagesPath": "/home/wagner/.nuget/packages/",
+        "outputPath": "/home/wagner/semb2/semana02/exercicio04/Video14/Exception_Error/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/marco/.nuget/NuGet/NuGet.Config"
+          "/home/wagner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -48,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

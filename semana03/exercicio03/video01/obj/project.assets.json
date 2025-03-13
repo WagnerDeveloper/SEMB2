@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/wagner/semb2/semana03/exercicio03/semb2.csproj",
+      "projectUniqueName": "/home/wagner/semb2/semana03/exercicio03/video01/semb2.csproj",
       "projectName": "semb2",
-      "projectPath": "/home/wagner/semb2/semana03/exercicio03/semb2.csproj",
+      "projectPath": "/home/wagner/semb2/semana03/exercicio03/video01/semb2.csproj",
       "packagesPath": "/home/wagner/.nuget/packages/",
-      "outputPath": "/home/wagner/semb2/semana03/exercicio03/obj/",
+      "outputPath": "/home/wagner/semb2/semana03/exercicio03/video01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/wagner/.nuget/NuGet/NuGet.Config"

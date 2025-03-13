@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/bin/Debug/net8.0/05Acesso
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/bin/Debug/net8.0/05Acesso.deps.json
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/bin/Debug/net8.0/05Acesso.runtimeconfig.json
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/bin/Debug/net8.0/05Acesso.dll
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/bin/Debug/net8.0/05Acesso.pdb
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/05Acesso.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/05Acesso.AssemblyInfo.cs
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/05Acesso.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/05Acesso.sourcelink.json
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/05Acesso.dll
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/refint/05Acesso.dll
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/05Acesso.pdb
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/05Acesso.genruntimeconfig.cache
+/home/wagner/semb2/semana04/exercicio02/video07/05Acesso/obj/Debug/net8.0/ref/05Acesso.dll

@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/bin/Debug/net8.0/Hello_World
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/bin/Debug/net8.0/Hello_World.deps.json
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/bin/Debug/net8.0/Hello_World.runtimeconfig.json
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/bin/Debug/net8.0/Hello_World.dll
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/bin/Debug/net8.0/Hello_World.pdb
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/Hello_World.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/Hello_World.AssemblyInfo.cs
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/Hello_World.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/Hello_World.sourcelink.json
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/Hello_World.dll
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/refint/Hello_World.dll
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/Hello_World.pdb
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/Hello_World.genruntimeconfig.cache
+/home/wagner/semb2/semana02/exercicio04/Video01/Hello_World/obj/Debug/net8.0/ref/Hello_World.dll
