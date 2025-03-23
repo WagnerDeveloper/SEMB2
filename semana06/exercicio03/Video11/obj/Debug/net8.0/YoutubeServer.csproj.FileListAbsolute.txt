@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana06/exercicio03/Video11/bin/Debug/net8.0/YoutubeServer
+/home/wagner/semb2/semana06/exercicio03/Video11/bin/Debug/net8.0/YoutubeServer.deps.json
+/home/wagner/semb2/semana06/exercicio03/Video11/bin/Debug/net8.0/YoutubeServer.runtimeconfig.json
+/home/wagner/semb2/semana06/exercicio03/Video11/bin/Debug/net8.0/YoutubeServer.dll
+/home/wagner/semb2/semana06/exercicio03/Video11/bin/Debug/net8.0/YoutubeServer.pdb
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/YoutubeServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/YoutubeServer.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/YoutubeServer.AssemblyInfo.cs
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/YoutubeServer.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/YoutubeServer.sourcelink.json
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/YoutubeServer.dll
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/refint/YoutubeServer.dll
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/YoutubeServer.pdb
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/YoutubeServer.genruntimeconfig.cache
+/home/wagner/semb2/semana06/exercicio03/Video11/obj/Debug/net8.0/ref/YoutubeServer.dll

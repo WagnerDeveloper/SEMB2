@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana05/exercicio03/Video06/bin/Debug/net8.0/ThreadSynchronization
+/home/wagner/semb2/semana05/exercicio03/Video06/bin/Debug/net8.0/ThreadSynchronization.deps.json
+/home/wagner/semb2/semana05/exercicio03/Video06/bin/Debug/net8.0/ThreadSynchronization.runtimeconfig.json
+/home/wagner/semb2/semana05/exercicio03/Video06/bin/Debug/net8.0/ThreadSynchronization.dll
+/home/wagner/semb2/semana05/exercicio03/Video06/bin/Debug/net8.0/ThreadSynchronization.pdb
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ThreadSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ThreadSynchronization.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ThreadSynchronization.AssemblyInfo.cs
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ThreadSynchronization.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ThreadSynchronization.sourcelink.json
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ThreadSynchronization.dll
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/refint/ThreadSynchronization.dll
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ThreadSynchronization.pdb
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ThreadSynchronization.genruntimeconfig.cache
+/home/wagner/semb2/semana05/exercicio03/Video06/obj/Debug/net8.0/ref/ThreadSynchronization.dll

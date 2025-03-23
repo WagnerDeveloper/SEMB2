@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana05/exercicio03/Video19/bin/Debug/net8.0/SynchronizedContainers
+/home/wagner/semb2/semana05/exercicio03/Video19/bin/Debug/net8.0/SynchronizedContainers.deps.json
+/home/wagner/semb2/semana05/exercicio03/Video19/bin/Debug/net8.0/SynchronizedContainers.runtimeconfig.json
+/home/wagner/semb2/semana05/exercicio03/Video19/bin/Debug/net8.0/SynchronizedContainers.dll
+/home/wagner/semb2/semana05/exercicio03/Video19/bin/Debug/net8.0/SynchronizedContainers.pdb
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/SynchronizedContainers.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/SynchronizedContainers.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/SynchronizedContainers.AssemblyInfo.cs
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/SynchronizedContainers.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/SynchronizedContainers.sourcelink.json
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/SynchronizedContainers.dll
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/refint/SynchronizedContainers.dll
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/SynchronizedContainers.pdb
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/SynchronizedContainers.genruntimeconfig.cache
+/home/wagner/semb2/semana05/exercicio03/Video19/obj/Debug/net8.0/ref/SynchronizedContainers.dll

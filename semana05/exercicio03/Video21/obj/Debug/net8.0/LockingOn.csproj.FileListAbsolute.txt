@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana05/exercicio03/Video21/bin/Debug/net8.0/LockingOn
+/home/wagner/semb2/semana05/exercicio03/Video21/bin/Debug/net8.0/LockingOn.deps.json
+/home/wagner/semb2/semana05/exercicio03/Video21/bin/Debug/net8.0/LockingOn.runtimeconfig.json
+/home/wagner/semb2/semana05/exercicio03/Video21/bin/Debug/net8.0/LockingOn.dll
+/home/wagner/semb2/semana05/exercicio03/Video21/bin/Debug/net8.0/LockingOn.pdb
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/LockingOn.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/LockingOn.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/LockingOn.AssemblyInfo.cs
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/LockingOn.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/LockingOn.sourcelink.json
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/LockingOn.dll
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/refint/LockingOn.dll
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/LockingOn.pdb
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/LockingOn.genruntimeconfig.cache
+/home/wagner/semb2/semana05/exercicio03/Video21/obj/Debug/net8.0/ref/LockingOn.dll

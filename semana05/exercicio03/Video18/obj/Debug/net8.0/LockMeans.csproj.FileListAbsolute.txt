@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana05/exercicio03/Video18/bin/Debug/net8.0/LockMeans
+/home/wagner/semb2/semana05/exercicio03/Video18/bin/Debug/net8.0/LockMeans.deps.json
+/home/wagner/semb2/semana05/exercicio03/Video18/bin/Debug/net8.0/LockMeans.runtimeconfig.json
+/home/wagner/semb2/semana05/exercicio03/Video18/bin/Debug/net8.0/LockMeans.dll
+/home/wagner/semb2/semana05/exercicio03/Video18/bin/Debug/net8.0/LockMeans.pdb
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/LockMeans.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/LockMeans.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/LockMeans.AssemblyInfo.cs
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/LockMeans.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/LockMeans.sourcelink.json
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/LockMeans.dll
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/refint/LockMeans.dll
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/LockMeans.pdb
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/LockMeans.genruntimeconfig.cache
+/home/wagner/semb2/semana05/exercicio03/Video18/obj/Debug/net8.0/ref/LockMeans.dll

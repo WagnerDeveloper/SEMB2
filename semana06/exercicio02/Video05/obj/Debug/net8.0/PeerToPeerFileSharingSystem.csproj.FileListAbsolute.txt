@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana06/exercicio02/Video05/bin/Debug/net8.0/PeerToPeerFileSharingSystem
+/home/wagner/semb2/semana06/exercicio02/Video05/bin/Debug/net8.0/PeerToPeerFileSharingSystem.deps.json
+/home/wagner/semb2/semana06/exercicio02/Video05/bin/Debug/net8.0/PeerToPeerFileSharingSystem.runtimeconfig.json
+/home/wagner/semb2/semana06/exercicio02/Video05/bin/Debug/net8.0/PeerToPeerFileSharingSystem.dll
+/home/wagner/semb2/semana06/exercicio02/Video05/bin/Debug/net8.0/PeerToPeerFileSharingSystem.pdb
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/PeerToPeerFileSharingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/PeerToPeerFileSharingSystem.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/PeerToPeerFileSharingSystem.AssemblyInfo.cs
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/PeerToPeerFileSharingSystem.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/PeerToPeerFileSharingSystem.sourcelink.json
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/PeerToPeerFileSharingSystem.dll
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/refint/PeerToPeerFileSharingSystem.dll
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/PeerToPeerFileSharingSystem.pdb
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/PeerToPeerFileSharingSystem.genruntimeconfig.cache
+/home/wagner/semb2/semana06/exercicio02/Video05/obj/Debug/net8.0/ref/PeerToPeerFileSharingSystem.dll

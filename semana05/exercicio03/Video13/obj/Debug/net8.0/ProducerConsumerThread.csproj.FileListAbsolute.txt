@@ -1,0 +1,15 @@
+/home/wagner/semb2/semana05/exercicio03/Video13/bin/Debug/net8.0/ProducerConsumerThread
+/home/wagner/semb2/semana05/exercicio03/Video13/bin/Debug/net8.0/ProducerConsumerThread.deps.json
+/home/wagner/semb2/semana05/exercicio03/Video13/bin/Debug/net8.0/ProducerConsumerThread.runtimeconfig.json
+/home/wagner/semb2/semana05/exercicio03/Video13/bin/Debug/net8.0/ProducerConsumerThread.dll
+/home/wagner/semb2/semana05/exercicio03/Video13/bin/Debug/net8.0/ProducerConsumerThread.pdb
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ProducerConsumerThread.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ProducerConsumerThread.AssemblyInfoInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ProducerConsumerThread.AssemblyInfo.cs
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ProducerConsumerThread.csproj.CoreCompileInputs.cache
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ProducerConsumerThread.sourcelink.json
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ProducerConsumerThread.dll
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/refint/ProducerConsumerThread.dll
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ProducerConsumerThread.pdb
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ProducerConsumerThread.genruntimeconfig.cache
+/home/wagner/semb2/semana05/exercicio03/Video13/obj/Debug/net8.0/ref/ProducerConsumerThread.dll
