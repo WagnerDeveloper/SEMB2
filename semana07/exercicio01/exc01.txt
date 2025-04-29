@@ -1,0 +1,54 @@
+O que é UI (User Interface)?
+UI significa Interface do Usuário. Trata-se do visual e da interação gráfica de um produto digital. Exemplos:
+
+Botões
+
+Cores
+
+Tipografia
+
+Layout de telas
+
+Ícones e animações
+
+É o que o usuário vê e toca. Um bom design de UI deve ser bonito, claro e intuitivo.
+
+O que é UX (User Experience)?
+UX significa Experiência do Usuário. Está relacionado à sensação, fluidez e eficiência do uso do produto. Engloba:
+
+Jornada do usuário
+
+Facilidade de uso
+
+Emoções geradas pela interação
+
+Acessibilidade
+
+Solução de problemas reais
+
+UX não é só design visual — é como a pessoa se sente ao usar o produto. Envolve pesquisa, testes e empatia.
+
+O que é Product Design?
+Product Design é o campo que une UX, UI e estratégia de produto. O foco é criar soluções úteis, viáveis e desejáveis para os usuários e o negócio. Um(a) Product Designer pensa em:
+
+Qual problema estamos resolvendo?
+
+Para quem estamos resolvendo?
+
+Como podemos entregar valor com qualidade?
+
+Envolve:
+
+Pesquisa com usuários
+
+Prototipação
+
+Design visual
+
+Testes de usabilidade
+
+Colaboração com time de desenvolvimento e negócio
+
+UI foca no visual e na interação com o produto, como botões, cores e layout; 
+UX se concentra na experiência do usuário, garantindo que o uso seja fácil, agradável e eficiente; 
+já o Product Design integra UI, UX e estratégia, buscando criar soluções completas que atendam tanto às necessidades dos usuários quanto aos objetivos do negócio.
